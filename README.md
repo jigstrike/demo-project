@@ -1,2 +1,4 @@
-# demo-project
-This is a demo project.
+# Demo Project
+
+### With @jigstrike
+This repo is to practice the GitHub Flow in many ways! :tada:!
